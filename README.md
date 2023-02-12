@@ -1,11 +1,11 @@
 <div id="header" align="center"> 
-    <img src="<iframe src="https://media.giphy.com/media/XabhIre57HUM8/giphy.gif" width="200" />
+    <img src="src="https://media.giphy.com/media/XabhIre57HUM8/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, soy Rodrigo </h1>
     <h3 align="center">Nombre completo: Rodrigo Berrios Jerez
 
         Nombre completo: Rodrigo Berrios Jerez
 
-¿Colegio en el que estudió: La Salle Convenio
+Colegio en el que estudió: La Salle Convenio
 
 ¿Cuáles son tus hobbies?
 Mis hobbies son escuchar música, ver películas y jugar videojuegos.
