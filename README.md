@@ -8,6 +8,7 @@
 Colegio en el que estudió: La Salle Convenio
 
 ¿Cuáles son tus hobbies?
+
 Mis hobbies son escuchar música, ver películas y jugar videojuegos.
 
 Describir los logros que obtuvo en el colegio
