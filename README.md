@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-    <img src="https://media.giphy.com/media/2dhr60BbbQU63qgZbi/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/2dhr60BbbQU63qgZbi/giphy.gif" width="400" />
     <h1 align="center">Hola 👋, soy Rodrigo </h1>
     <h3 align="center">Nombre completo: Rodrigo Berrios Jerez
 
