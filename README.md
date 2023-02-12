@@ -6,6 +6,7 @@
        
 
 Colegio en el que estudió: La Salle Convenio
+        
 
 ¿Cuáles son tus hobbies?
 
