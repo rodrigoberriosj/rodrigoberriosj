@@ -3,7 +3,7 @@
     <h1 align="center">Hola 👋, soy Rodrigo </h1>
     <h3 align="center">Nombre completo: Rodrigo Berrios Jerez
 
-        Nombre completo: Rodrigo Berrios Jerez
+       
 
 Colegio en el que estudió: La Salle Convenio
 
