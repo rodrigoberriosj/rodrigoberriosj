@@ -2,6 +2,7 @@
     <img src="https://media.giphy.com/media/2dhr60BbbQU63qgZbi/giphy.gif" width="250" />
     <h1 align="center">Hola 👋, soy Rodrigo </h1>
     <h3 align="center">Nombre completo: Rodrigo Berrios Jerez
+        
 
        
 
