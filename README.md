@@ -26,3 +26,8 @@ Estudio Ingeniería de Sistemas porque me apasiona el mundo interno de las compu
 ¿Cuál sería el primer producto que crearías después que salgas de la universidad?
 
 El primer producto que crearía después de salir de la universidad sería un videojuego de mundo abierto, ya que este tipo de videojuegos nos ofrecen la increíble posibilidad de movernos libremente por un mundo virtual y principalmente porque nos ofrecen una cantidad infinita de posibilidades.
+
+<table align="right">
+<tr>
+<td>
+
