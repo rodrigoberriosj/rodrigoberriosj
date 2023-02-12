@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
     <img src="https://media.giphy.com/media/2dhr60BbbQU63qgZbi/giphy.gif" width="250" />
-    <h1 align="center">Hola 👋, soy Rodrigo </h1>
+    <h1 align="center">Hola 👋, soy Rodrigo :D </h1>
     <h3 align="center">Nombre completo: Rodrigo Berrios Jerez
         
 
@@ -27,7 +27,15 @@ Estudio Ingeniería de Sistemas porque me apasiona el mundo interno de las compu
 
 El primer producto que crearía después de salir de la universidad sería un videojuego de mundo abierto, ya que este tipo de videojuegos nos ofrecen la increíble posibilidad de movernos libremente por un mundo virtual y principalmente porque nos ofrecen una cantidad infinita de posibilidades.
 
-<table align="right">
-<tr>
-<td>
-
+<div id="header" align="center"> 
+    <h1 align="center">Mis Redes Sociales </h1>
+<img width="200" alt="Captura de pantalla_20230211_113341" src="https://user-images.githubusercontent.com/125137489/218291542-72b884d2-5940-4896-ad2d-fd67c73afc1c.png">
+    
+    
+Facebook: https://www.facebook.com/rodroberrios
+    
+    
+Instagram: https://www.instagram.com/rodro.oos/
+    
+    
+Twitter: https://twitter.com/Rodrigous         
